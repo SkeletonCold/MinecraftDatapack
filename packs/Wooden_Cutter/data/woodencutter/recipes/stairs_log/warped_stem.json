@@ -1,8 +1,8 @@
 {
     "type": "stonecutting",
     "ingredient": {
-        "item": "minecraft:warped_planks"
+        "tag": "minecraft:warped_stems"
     },
     "result": "minecraft:warped_stairs",
-    "count": 1
+    "count": 5
 }
