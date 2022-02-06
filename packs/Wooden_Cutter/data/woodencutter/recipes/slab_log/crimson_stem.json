@@ -1,7 +1,7 @@
 {
     "type": "stonecutting",
     "ingredient": {
-        "tag": "#crimson_logs"
+        "tag": "#crimson_stems"
     },
     "result": "minecraft:crimson_slab",
     "count": 2
