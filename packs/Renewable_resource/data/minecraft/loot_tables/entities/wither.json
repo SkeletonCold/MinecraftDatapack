@@ -1,0 +1,74 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 0.0,
+                  "max": 5.0,
+                  "type": "minecraft:uniform"
+                }
+              }
+            ],
+            "name": "minecraft:netherite_scrap",
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance",
+                    "chance": 0.30
+                }
+            ]
+          }
+        ]
+      },
+      {
+          "rolls": 3,
+          "entries": [
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 0.0,
+                            "max": 2.0,
+                            "type": "minecraft:uniform"
+                        }
+                    }
+                ],
+                "name": "minecraft:netherite_scrap",
+                "wight": 1
+            }
+          ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 0.0,
+                  "max": 2.0,
+                  "type": "minecraft:uniform"
+                }
+              }
+            ],
+            "name": "minecraft:netherite_scrap",
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance",
+                    "chance": 0.30
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
