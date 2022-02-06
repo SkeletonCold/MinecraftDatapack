@@ -1,8 +1,8 @@
 {
     "type": "stonecutting",
     "ingredient": {
-        "tag": "#spruce_logs"
+        "tag": "minecraft:spruce_logs"
     },
     "result": "minecraft:spruce_slab",
-    "count": 2
+    "count": 8
 }

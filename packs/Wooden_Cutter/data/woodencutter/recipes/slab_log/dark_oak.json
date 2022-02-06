@@ -1,8 +1,8 @@
 {
     "type": "stonecutting",
     "ingredient": {
-        "tag": "#dark_oak_logs"
+        "tag": "minecraft:dark_oak_logs"
     },
     "result": "minecraft:dark_oak_slab",
-    "count": 2
+    "count": 8
 }
