@@ -4,8 +4,9 @@
             "rolls": 1,
             "entries": [
                 {
-                    "type": "loot_table",
-                    "name": "minecraft:entities/reference/extra/ender_dragon"
+                    "type": "item",
+                    "name": "minecraft:elytra",
+                    "weight": 1
                 }
             ]
         },
@@ -13,8 +14,9 @@
             "rolls": 1,
             "entries": [
                 {
-                    "type": "loot_table",
-                    "name": "minecraft:entities/reference/mmh/ender_dragon"
+                    "type": "item",
+                    "name": "minecraft:dragon_egg",
+                    "weight": 1
                 }
             ]
         }
