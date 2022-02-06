@@ -15,8 +15,18 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:dragon_egg",
-                    "weight": 1
+                    "name": "minecraft:dragon_egg"
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:dragon_head"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance_with_looting",
+                    "chance": 0.30,
+                    "looting_multiplier": 0.01
                 }
             ]
         }
