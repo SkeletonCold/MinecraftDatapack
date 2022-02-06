@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "tag": "renewableresource:diamondtools"
+    },
+    "result": "minecraft:diamond",
+    "cookingtime": 500,
+    "experience": 10
+}
