@@ -1,0 +1,81 @@
+{
+    "parent": "woodencutter:recipes/root",
+    "rewards": {
+      "recipes": [
+        "woodencutter:planks/acacia",
+        "woodencutter:planks/birch",
+        "woodencutter:planks/crimson_stem",
+        "woodencutter:planks/dark_oak",
+        "woodencutter:planks/jungle",
+        "woodencutter:planks/oak",
+        "woodencutter:planks/spruce",
+        "woodencutter:planks/warped_stem",
+        "woodencutter:slab_log/acacia",
+        "woodencutter:slab_log/birch",
+        "woodencutter:slab_log/crimson_stem",
+        "woodencutter:slab_log/dark_oak",
+        "woodencutter:slab_log/jungle",
+        "woodencutter:slab_log/oak",
+        "woodencutter:slab_log/spruce",
+        "woodencutter:slab_log/warped_stem",
+        "woodencutter:slab_planks/acacia",
+        "woodencutter:slab_planks/birch",
+        "woodencutter:slab_planks/crimson_stem",
+        "woodencutter:slab_planks/dark_oak",
+        "woodencutter:slab_planks/jungle",
+        "woodencutter:slab_planks/oak",
+        "woodencutter:slab_planks/spruce",
+        "woodencutter:slab_planks/warped_stem",
+        "woodencutter:stairs_log/acacia",
+        "woodencutter:stairs_log/birch",
+        "woodencutter:stairs_log/crimson_stem",
+        "woodencutter:stairs_log/dark_oak",
+        "woodencutter:stairs_log/jungle",
+        "woodencutter:stairs_log/oak",
+        "woodencutter:stairs_log/spruce",
+        "woodencutter:stairs_log/warped_stem",
+        "woodencutter:stairs_planks/acacia",
+        "woodencutter:stairs_planks/birch",
+        "woodencutter:stairs_planks/crimson_stem",
+        "woodencutter:stairs_planks/dark_oak",
+        "woodencutter:stairs_planks/jungle",
+        "woodencutter:stairs_planks/oak",
+        "woodencutter:stairs_planks/spruce",
+        "woodencutter:stairs_planks/warped_stem",
+        "woodencutter:stripped_log/acacia",
+        "woodencutter:stripped_log/birch",
+        "woodencutter:stripped_log/crimson_stem",
+        "woodencutter:stripped_log/dark_oak",
+        "woodencutter:stripped_log/jungle",
+        "woodencutter:stripped_log/oak",
+        "woodencutter:stripped_log/spruce",
+        "woodencutter:stripped_log/warped_stem",
+        "woodencutter:stripped_wood/acacia",
+        "woodencutter:stripped_wood/birch",
+        "woodencutter:stripped_wood/crimson_stem",
+        "woodencutter:stripped_wood/dark_oak",
+        "woodencutter:stripped_wood/jungle",
+        "woodencutter:stripped_wood/oak",
+        "woodencutter:stripped_wood/spruce",
+        "woodencutter:stripped_wood/warped_stem",
+        "woodencutter:stick"
+      ]
+    },
+    "criteria": {
+      "has_log": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "woodencutter:logsandstems"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_log"
+      ]
+    ]
+  }
