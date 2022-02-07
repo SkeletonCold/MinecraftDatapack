@@ -1,0 +1,25 @@
+{
+    "parent": "renewableresource:recipes/root",
+    "rewards": {
+      "recipes": [
+        "renewableresource:gilded_blackstone"
+      ]
+    },
+    "criteria": {
+      "has_glod": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:gold_nugget"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_gold"
+      ]
+    ]
+  }
