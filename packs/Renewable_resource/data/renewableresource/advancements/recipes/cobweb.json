@@ -1,5 +1,5 @@
 {
-    "parent": "renewableresource:recipes/root",
+    "parent": "minecraft:recipes/root",
     "rewards": {
       "recipes": [
         "renewableresource:cobweb"
