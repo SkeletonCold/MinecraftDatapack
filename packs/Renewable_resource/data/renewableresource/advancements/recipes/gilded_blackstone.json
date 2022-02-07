@@ -6,7 +6,7 @@
       ]
     },
     "criteria": {
-      "has_glod": {
+      "has_gold": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [

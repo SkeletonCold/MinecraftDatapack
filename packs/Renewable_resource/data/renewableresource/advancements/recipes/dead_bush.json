@@ -11,9 +11,7 @@
         "conditions": {
           "items": [
             {
-              "tags": [
-                "minecraft:saplings"
-              ]
+              "tag": "minecraft:saplings"
             }
           ]
         }
