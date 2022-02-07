@@ -67,7 +67,9 @@
         "conditions": {
           "items": [
             {
-              "tag": "woodencutter:logsandstems"
+              "tag": [
+                "woodencutter:logsandstems"
+              ]
             }
           ]
         }
