@@ -1,0 +1,25 @@
+{
+    "parent": "renewableresource:recipes/root",
+    "rewards": {
+      "recipes": [
+        "renewableresource:dead_bush"
+      ]
+    },
+    "criteria": {
+      "has_tree_spaling": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tags": "minecraft:saplings"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_tree_spaling"
+      ]
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+    "parent": "renewableresource:recipes/root",
+    "rewards": {
+      "recipes": [
+        "renewableresource:cobweb"
+      ]
+    },
+    "criteria": {
+      "has_string": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:string"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_string"
+      ]
+    ]
+  }
