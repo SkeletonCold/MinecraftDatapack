@@ -58,6 +58,13 @@
         "woodencutter:warped_stem/stairs_planks",
         "woodencutter:warped_stem/stripped_log",
         "woodencutter:warped_stem/stripped_wood",
+        "woodencutter:cherry/planks",
+        "woodencutter:cherry/slab_log",
+        "woodencutter:cherry/slab_planks",
+        "woodencutter:cherry/stairs_log",
+        "woodencutter:cherry/stairs_planks",
+        "woodencutter:cherry/stripped_log",
+        "woodencutter:cherry/stripped_wood",
         "woodencutter:stick"
       ]
     },
