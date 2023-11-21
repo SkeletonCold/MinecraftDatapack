@@ -1,7 +1,7 @@
 {
     "type": "stonecutting",
     "ingredient": {
-        "item": "minecraft:crimson_hyphae"
+        "tag": "minecraft:crimson_stems"
     },
     "result": "minecraft:crimson_stairs",
     "count": 5
