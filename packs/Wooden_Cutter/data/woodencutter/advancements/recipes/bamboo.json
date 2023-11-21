@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "woodencutter:bamboo/mosaic_planks",
+        "woodencutter:bamboo/planks",
+        "woodencutter:bamboo/slab_bamboo_block",
+        "woodencutter:bamboo/slab_bamboo_mosaic_block",
+        "woodencutter:bamboo/slab_bamboo_mosaic_planks",
+        "woodencutter:bamboo/slab_bamboo_planks",
+        "woodencutter:bamboo/stairs_bamboo_block",
+        "woodencutter:bamboo/stairs_bamboo_mosaic_block",
+        "woodencutter:bamboo/stairs_bamboo_mosaic_planks",
+        "woodencutter:bamboo/stairs_bamboo_planks",
+        "woodencutter:bamboo/stripped_bamboo",
+        "woodencutter:bamboo/bamboo_sticks"
+      ]
+    },
+    "criteria": {
+      "has_bamboo": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "woodencutter:bambooblocks"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_bamboo"
+      ]
+    ]
+  }

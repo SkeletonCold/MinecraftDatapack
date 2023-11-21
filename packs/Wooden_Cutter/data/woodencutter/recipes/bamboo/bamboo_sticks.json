@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": {
+        "tag": "woodencutter:bambooblocks"
+    },
+    "result": "minecraft:stick",
+    "count": 4
+}
