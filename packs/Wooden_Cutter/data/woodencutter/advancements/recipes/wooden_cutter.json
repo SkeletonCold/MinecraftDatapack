@@ -65,6 +65,13 @@
         "woodencutter:cherry/stairs_planks",
         "woodencutter:cherry/stripped_log",
         "woodencutter:cherry/stripped_wood",
+        "woodencutter:mangrove/planks",
+        "woodencutter:mangrove/slab_log",
+        "woodencutter:mangrove/slab_planks",
+        "woodencutter:mangrove/stairs_log",
+        "woodencutter:mangrove/stairs_planks",
+        "woodencutter:mangrove/stripped_log",
+        "woodencutter:mangrove/stripped_wood",
         "woodencutter:stick"
       ]
     },
